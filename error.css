@@ -1,0 +1,21 @@
+body{
+    background-image: url("img/PicsArt_09-30-12.33.34.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+}
+h1,h2,h3{
+    text-align: center;
+    size: 30px;
+    font-family: "Source Code Pro Light";
+}
+.btn,.btn-lg,.btn-danger{
+   margin-top:400px;
+    margin-left: 630px;
+    outline:none;
+}
+.btn-danger{
+    color: #2962FF;
+}
